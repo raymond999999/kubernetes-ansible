@@ -12,4 +12,7 @@ kubeadm ansible安装方法(v1.23)：https://github.com/raymond999999/kubernetes
 
 kubernetes binary ansible安装方法(v1.23)：https://github.com/raymond999999/kubernetes-ansible/blob/main/kubernetes-binary/README-v1.23/kubernetes_ansible.md
 
+更多关于kubernetes-ansible介绍，请去"raymond.blog.csdn.net"的“Ansible 企业实战案例”专栏。
 
+
+由于github限制单个文件超过100M，把文件打包传到百度网盘，大家自行去下载。
