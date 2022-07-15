@@ -15,4 +15,4 @@ kubernetes binary ansible安装方法(v1.23)：https://github.com/raymond999999/
 更多关于kubernetes-ansible介绍，请去"raymond.blog.csdn.net"的“Ansible 企业实战案例”专栏。
 
 
-由于github限制单个文件超过100M上传不了，如果有需要源码的请加本人微信：raymond9999999
+由于github限制单个文件超过100M上传不了，如果有需要源码的请加本人微信：![](images/wx.jpg)
